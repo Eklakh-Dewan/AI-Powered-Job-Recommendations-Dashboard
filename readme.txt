@@ -18,7 +18,7 @@ This is an intelligent job recommendation system that uses AI and natural langua
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/job-recommendations-dashboard.git
+git clone https://github.com/Eklakh-Dewan/job-recommendations-dashboard.git
 cd job-recommendations-dashboard
 ```
 
